@@ -1,4 +1,4 @@
-# readme for pnet-package-v1
+# readme for pnet-package-v1 (1edit-network)
 
 This is a development space for a future R package that produces a network of items based on the 1-edit distance rule (substitution, addition, or deletion of 1 segment). 
 
