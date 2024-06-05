@@ -12,7 +12,7 @@ If you have any questions or comments, please feel free to email `cynthia@nus.ed
 
 ## Usage 
 
-Required packages: `igraph`, `stringdist`, 'dplyr'. Please install these first via: `install.packages(c('igraph', 'stringdist', 'dplyr'))`
+Required packages: `igraph`, `stringdist`, `dplyr`. Please install these first via: `install.packages(c('igraph', 'stringdist', 'dplyr'))`
 
 Then, download the entire repository.
 
@@ -25,7 +25,7 @@ load('data/sample_list_20240605.RData') # sample data for demonstration, see dat
 source('helper-functions.R')
 source('make_network.R')
 source('get_global_measures.R')
-source('get_network_measures.R')
+source('get_node_measures.R')
 source('get_lcc.R')
 ```
 
